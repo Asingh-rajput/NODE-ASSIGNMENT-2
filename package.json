@@ -1,0 +1,14 @@
+{
+  "name": "input",
+  "version": "1.0.0",
+  "main": "readCommandLineArguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashutosh singh rajput",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "description": ""
+}
